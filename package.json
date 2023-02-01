@@ -8,7 +8,6 @@
     "build": "webpack --mode=development",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-
   },
   "repository": {
     "type": "git",
@@ -22,6 +21,7 @@
   },
   "homepage": "https://github.com/3abderrahmane/profile/",
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1"
   },
