@@ -60,7 +60,7 @@ const renderProjectsPage = (() => {
           </div>
           <div class="project-container">
             <div class="proj-image">
-              <img src="img/thebakery.jpg" alt="The Bakery Cookies">
+              <img src="img/bakery.jpg" alt="The Bakery Cookies">
               <div class="button-container">
                 <a href="http://www.technologwebdesign.com/ComputerBusniss-lance2/OptionCSS/sweet.html" target="_blank">
                   <button>Live Preview</button></a>
