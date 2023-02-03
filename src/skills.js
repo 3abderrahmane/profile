@@ -18,14 +18,14 @@ const renderSkillsPage = (() => {
               </div>
               <div class="each-skill">
                 <h3>CSS - Responsive Design</h3>
-                <h3>80%</h3>
+                <h3>89%</h3>
               </div>
               <div class="bar-container">
                 <div class="skill-bar css"></div>
               </div>
               <div class="each-skill">
-                <h3>JavaScript</h3>
-                <h3>65%</h3>
+                <h3>JavaScript, Node.js</h3>
+                <h3>75%</h3>
               </div>
               <div class="bar-container">
                 <div class="skill-bar js"></div>
@@ -60,7 +60,7 @@ const renderSkillsPage = (() => {
               </div>
               <div class="each-skill">
                 <h3>MySQL-MangoDB</h3>
-                <h3>55%</h3>
+                <h3>70%</h3>
               </div>
               <div class="bar-container">
                 <div class="skill-bar mysql"></div>
