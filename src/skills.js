@@ -59,7 +59,7 @@ const renderSkillsPage = (() => {
                 <div class="skill-bar react"></div>
               </div>
               <div class="each-skill">
-                <h3>MySQL-MangoDB</h3>
+                <h3>MySQL-MangoDB, Figma, Sketch, GIMP</h3>
                 <h3>70%</h3>
               </div>
               <div class="bar-container">
