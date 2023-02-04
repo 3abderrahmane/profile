@@ -7,7 +7,8 @@
   
   :root {
     --color-dark: #3f7eb3;
-    --color-second: #6ba7cc;
+    /*--color-second: #6ba7cc;*/
+    --color-second: #022338;
     --color-third: #aedbf0;
     --color-white: white;
     --color-light: #e2fcff;
@@ -324,7 +325,7 @@
   .wrapper {
     height: calc(100vh - 20px - 50px);
     background-color: var(--color-light);
-    margin: 20px;
+    margin: 10px;
     margin-bottom: 40px;
     border-radius: 10px;
     border: 1px solid;
