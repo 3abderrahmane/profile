@@ -849,10 +849,10 @@
       gap: 0;
       flex-direction: column;
       background: rgba(63, 126, 179, 0.9);
-      width: 100%;
       text-align: center;
       transition: 0.3s;
     }
+
     nav ul li {
       margin: 5px 0;
       font-size: 1.6em;
@@ -864,7 +864,7 @@
     
     #logo {
       display: block;
-      margin: auto;
+      margin: auto
     }
 
     .riseup {
